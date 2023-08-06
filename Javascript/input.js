@@ -1,0 +1,2 @@
+// Take input in JS
+
