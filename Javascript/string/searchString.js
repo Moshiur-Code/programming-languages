@@ -4,7 +4,7 @@ let myString = 'Hey Allah! gives us the street path';
 
 
 // Use of includes()
-console.log(myString.includes('a'));
+console.log(myString.includes('eet'));
 
 // Use of indexof()
 console.log(myString.indexOf('Allah'));
